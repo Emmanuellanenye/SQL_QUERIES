@@ -1,1 +1,1 @@
-SQL queries for AfriTech Electronics analysis.
+SQL queries for NextGen Group analysis.
